@@ -104,9 +104,7 @@ uluslararasi-kargo/
 | Rol | İsim |
 |-----|------|
 | Grup üyesi | Kayra Demirkan |
-| Grup üyesi | Sırac Baha Tuncer |
 | Grup üyesi | Samet Tokdemir |
-| Grup üyesi | Yunus Emre Mahir |
 | Danışman | Öğr. Gör. Yeşim Aktaş — Ege Üniversitesi, Tire Kutsan Meslek Yüksekokulu |
 
 Telif bilgisi için bkz. [LICENSE](LICENSE).
