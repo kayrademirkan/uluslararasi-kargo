@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs ve geçici dosyalar
+*.log
+*.tmp
+*.bak
+
+# Ortam / sırlar (yerelde oluşturduğunuz dosyalar)
+.env
+.env.local
+*.pem
+
+# MySQL / Docker veri dizinleri (volume kullanırsanız)
+mysql-data/
